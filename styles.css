@@ -1,0 +1,83 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Monospace;
+  font-size: 200%;
+  background-image: url(space.png);
+  background-position: center;
+  padding: 15px;
+  background-size: 2010px 600px;
+  background-repeat: no-repeat;
+  width: 1610 px;
+  padding: 40px;
+  margin: auto;
+  text-align: center;
+  font-family: Monospace;
+  border: 5px solid green;
+  border-color:white;
+  border-top-color:black;
+  border-left-style:none;
+  border-right-style:none;
+  border-top-style:none;
+  border-left-color:black;
+  border-right-color:black;
+  border-bottom-width:1px;
+  margin-top: 0px;
+  text-decoration:none;
+  
+}
+h2 {
+	color: white;
+	text-align: center;
+	font-family: Monospace;
+	text-decoration:none;
+	
+}
+div {
+  width: 1864px;
+  border: 3px solid green;
+  padding: 10px;
+  margin: 0px;
+  color: white;
+  text-align:center;
+  border-color:rgb(123, 104, 238);
+  font-size: 200%;
+  font-family: monospace;
+  text-decoration:none;
+  
+}
+p{
+	color:grey;
+}
+a{
+	color:	#32CD32;
+	text-align: justify;
+	
+}
+h3{
+	color:white;
+	font-family:Monospace;
+	text-align:center;
+	font-size:150%;
+	
+	
+}
+div2{
+  width: 1878px;
+  border: 3px solid green;
+  padding: 20px;
+  margin: 0px;
+  color: white;
+  text-align:center;
+  border-color:rgb(123, 104, 238);
+  font-size: 200%;
+  font-family: monospace;
+  text-decoration:none;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
